@@ -1,0 +1,9 @@
+{
+  "appId": "com.projeto.menu",
+  "appName": "Menu Invisivel",
+  "webDir": "www",
+  "server": {
+    "url": "https://quick-splash-stage.lovable.app/",
+    "cleartext": true
+  }
+}
